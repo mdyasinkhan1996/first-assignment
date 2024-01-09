@@ -87,6 +87,9 @@
     border-radius: 16px;
     background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, .1) 100%);
 }
+#Welcome_section .Welcome_area img{
+    width: 250px;
+}
 #Welcome_section .Welcome_area .Welcome_content{
     width: 600px;
     margin: 0 120px;
